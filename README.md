@@ -1,3 +1,3 @@
 # Request Header Parser Microservice
 
-This is the boilerplate for the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+This is a project for my Back End Development and APIs freeCodeCamp certificate: https://www.freecodecamp.org/certification/martin_molina/back-end-development-and-apis
